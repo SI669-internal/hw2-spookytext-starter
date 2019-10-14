@@ -15,6 +15,14 @@ export default class classApp extends React.Component {
     }
   }
   
+  /**
+   * @param {string} text The string to reverse
+   * @returns {string} The string, reversed
+   */
+  reverseText(text) {
+    return text.split('').reverse().join('');
+  }
+
   handleChangeText = (text) => {
 
   }
