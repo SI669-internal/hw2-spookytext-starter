@@ -2,6 +2,14 @@ import React from 'react';
 import { StyleSheet, Text, View,
       TextInput, Switch, Image } from 'react-native';
 
+/**
+ * @param {string} text The string to reverse
+ * @returns {string} The string, reversed
+ */
+function reverseText(text) {
+  return text.split('').reverse().join('');
+}
+
 export default class classApp extends React.Component {
 
   constructor(props) {
@@ -15,13 +23,7 @@ export default class classApp extends React.Component {
     }
   }
   
-  /**
-   * @param {string} text The string to reverse
-   * @returns {string} The string, reversed
-   */
-  reverseText(text) {
-    return text.split('').reverse().join('');
-  }
+
 
   handleChangeText = (text) => {
 
