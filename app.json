@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Switcher",
-    "slug": "switcher",
+    "name": "SpookyText",
+    "slug": "spookytext",
     "privacy": "public",
     "platforms": [
       "ios",
