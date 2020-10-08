@@ -1,14 +1,14 @@
 # HW3: Spooky Text
 **SI669 Fall 2020**
 
-# Video Walkthrough
+## Video Walkthrough
 See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db).
 
-# Learning Goals
+## Learning Goals
 
-# Project Goals
+## Project Goals
 
-# What to Do
+## What to Do
 1. Accept the GitHub Classroom invitation.
 2. Clone this repo to your local machine.
 3. `cd` into the directory that was created when you cloned the repo (it should be called `hw3-spookytext-<your-github-id>`).
@@ -17,12 +17,12 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 6. Create a screencast video and submit the link to Canvas before the deadline.
 7. Indicate in your Canvas comments which requirements (including extra credit) you believe you met.
 
-# Notes
+## Notes
 * Be sure to show that the switches can operate independently. 
 * Also show that existing text is reversed when the "Reverse Text" is switched "On" and that new text is reversed when the  switch is already on.
 * A `reverseText()` function is provided. This will come in handy.
 
-# Grading (up to 120 points)
+## Grading (up to 120 points)
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
 | 1 | Switches change state when pressed | 20  |
@@ -33,4 +33,4 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 | 6 | Switches operate independently of each other | 10 |
 |   | **Total** | **100**
 
-# Extra Credit
+## Extra Credit
