@@ -12,7 +12,7 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 1. Accept the GitHub Classroom invitation.
 2. Clone this repo to your local machine.
 3. `cd` into the directory that was created when you cloned the repo (it should be called `hw3-spookytext-<your-github-id>`).
-4. Implement handleChangeText(), handleReverseText(), and handleReverseColors().
+4. Implement `handleChangeText()`, `handleReverseText()`, and `handleReverseColors()`.
 5. Push your final changes to GitHub before the deadline.
 6. Create a screencast video and submit the link to Canvas before the deadline.
 7. Indicate in your Canvas comments which requirements (including extra credit) you believe you met.
