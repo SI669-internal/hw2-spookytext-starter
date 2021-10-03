@@ -40,7 +40,7 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 
 ## Extra Credit
 
-Implement a password validator that operates like [the one in this video.](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db).
+Implement a password validator that operates like [the one in this video.](https://www.loom.com/share/b6da30da4c2c4a18a05926ba759a09c6).
 
 ## Grading (up to 4 points)
 | No. | Requirement  | Points |
