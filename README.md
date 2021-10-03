@@ -35,7 +35,17 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 | 3 | "Enter something:" TextInput displays user input | 20 |
 | 4 | "Result:" Text updates when TextInput changes | 20 |
 | 5 | "Result:" Text is reversed when 'Reverse Text' switch is 'On' | 20 |
-| 5 | "Result:" Colors are inverted when 'Reverse Colors' switch is 'On' | 20 |
+| 6 | "Result:" Colors are inverted when 'Reverse Colors' switch is 'On' | 20 |
 |   | **Total** | **120**
 
 ## Extra Credit
+
+Implement a password validator that operates like [the one in this video.](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db).
+
+## Grading (up to 4 points)
+| No. | Requirement  | Points |
+| --- | ------------- | ------------- |
+| 1 | Correctly displays whether "Enter Password:" text field consists only of letters or numbers | 1.5 |
+| 1 | Correctly displays "Enter Password:" text field has at least one number and at least one upper case letter | 1.5 |
+| 1 | Correctly displays "Enter Password:" and "Re-enter Password:" text fields match | 1  |
+|   | **Total** | **4**
