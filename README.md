@@ -46,6 +46,6 @@ Implement a password validator that operates like [the one in this video.](https
 | No. | Requirement  | Points |
 | --- | ------------- | ------------- |
 | 1 | Correctly displays whether "Enter Password:" text field consists only of letters or numbers | 1.5 |
-| 1 | Correctly displays "Enter Password:" text field has at least one number and at least one upper case letter | 1.5 |
-| 1 | Correctly displays "Enter Password:" and "Re-enter Password:" text fields match | 1  |
+| 1 | Correctly displays whether "Enter Password:" text field has at least one number and at least one upper case letter | 1.5 |
+| 1 | Correctly displays whether "Enter Password:" and "Re-enter Password:" text fields match | 1  |
 |   | **Total** | **4**
