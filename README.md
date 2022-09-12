@@ -1,5 +1,5 @@
-# HW3: Spooky Text
-**SI669 Fall 2021**
+# HW2: Spooky Text
+**SI669 Fall 2022**
 
 ## Video Walkthrough
 See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db).
@@ -24,7 +24,7 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 
 ## Notes
 * Be sure to show that the switches can operate independently. 
-* Also show that existing text is reversed when the "Reverse Text" is switched "On" and that new text is reversed when the  switch is already on.
+* Also show that existing text is reversed when the "Reverse Text" is switched "On" and that new text is reversed when the switch is already on.
 * A `reverseText()` function is provided. This will come in handy.
 
 ## Grading (up to 120 points)
