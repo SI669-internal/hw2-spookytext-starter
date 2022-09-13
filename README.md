@@ -1,7 +1,7 @@
 # HW2: Spooky Text
 **SI669 Fall 2022**
 
-## Video Walkthrough
+## Video Walkthrough 
 See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db).
 
 ## Learning Goals
