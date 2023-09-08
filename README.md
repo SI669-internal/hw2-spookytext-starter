@@ -41,7 +41,8 @@ See the [Demo Video](https://www.loom.com/share/ab569fb0124a44eaa2aee2c5a64645db
 ## Extra Credit
 
 Implement a password validator that operates like [the one in this video.](https://youtube.com/shorts/j7UKcnFd1E8)
-.
+
+While you don't need to do this for credit, you might want to look into the KeyboardAvoidingView React Native component if you're curious about how to make sure that input fields don't get obscured by the keyboard (as shown in the video).
 
 ## Grading (up to 4 points)
 | No. | Requirement  | Points |
